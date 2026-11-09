@@ -1,0 +1,1 @@
+"""Educational lottery analytics examples."""
